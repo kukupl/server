@@ -1,0 +1,14 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "name": "phone",
+            "netto": "17",
+            "brutto": "20",
+            "quantity": "10"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
